@@ -1,3 +1,4 @@
+#lets get started
 #1 total amount spent by each user.
 #2 total amount spent by each customer for each cards.
 #3 total amount spent by each customer on each card on each category.
